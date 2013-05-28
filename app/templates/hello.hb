@@ -1,3 +1,1 @@
-{{greeting}}, {{audience}}!!
-
-{{view.name}}
+{{greeting}}, {{audience}}!

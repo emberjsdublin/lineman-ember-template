@@ -1,3 +1,3 @@
-<div class="hello test">
+<div class="todos">
   {{outlet}}
 </div>
