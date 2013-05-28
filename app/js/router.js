@@ -1,3 +1,6 @@
 App.Router.map(function() {
-  this.resource('todos', { path: '/todos' });
+  this.resource('hellos');
+  this.resource('hello', {
+    path: '/hellos/:hello_id'
+  });
 });

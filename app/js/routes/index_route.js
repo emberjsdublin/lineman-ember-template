@@ -1,6 +1,6 @@
 App.IndexRoute = Ember.Route.extend({
   redirect: function() {
-    this.transitionTo('todos');
+    this.transitionTo('hello', App.Hello.find(1));
   }
 });
 
