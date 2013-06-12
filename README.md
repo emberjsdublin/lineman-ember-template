@@ -6,7 +6,7 @@ project shell to get started with Ember development quickly.
 
 The app is cloned from [lineman-ember-template](https://github.com/searls/lineman-ember-template) and adjusted
 so that the Ember application files are in JavaScript rather than CoffeeScript. Please see the original project
-if you would prefer to a base Ember project in CoffeeScript.
+if you would prefer to have a base Ember project in CoffeeScript.
 
 ## Setup
 If you haven't already done so, first: install [node.js](http://nodejs.org); next, install lineman:
